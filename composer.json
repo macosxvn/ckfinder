@@ -10,12 +10,12 @@
     ],
     "require": {
         "php": ">=5.6.0",
-        "monolog/monolog": "1.x-dev",
-        "pimple/pimple": "^3.2@dev",
-        "league/flysystem": "^1.1@dev",
-        "symfony/http-foundation": "3.4.x-dev",
-        "symfony/event-dispatcher": "3.4.x-dev",
-        "symfony/http-kernel": "3.4.x-dev"
+        "monolog/monolog": "^1.23",
+        "pimple/pimple": "^3.2",
+        "league/flysystem": "^1.0",
+        "symfony/http-foundation": "^3.4",
+        "symfony/event-dispatcher": "^3.4",
+        "symfony/http-kernel": "^3.4"
     },
     "autoload": {
         "psr-0": {
